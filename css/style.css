@@ -1,0 +1,30 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-image: linear-gradient(to bottom right, #00F490, #00BBC9);
+    /* background-image: url('../images/product1.png'); */
+}
+
+h1 {
+    font-family: 'Abril Fatface', cursive;
+}
+
+/* .lead a {
+    margin-top: 100px;
+} */
+
+.btn-outline-dark {
+    border-color: white;
+}
+
+.btn-learn:hover {
+    background-color: rgb(255, 255, 255, 0.201);
+}
+
+.jumbotron {
+    background-color: none;
+    background-image: none;
+}
+
+li {
+    list-style: none;
+}
